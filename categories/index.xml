@@ -1,0 +1,7 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Categories - Category - Borgesux Blog</title>
+        <link>http://borgesux.github.io/categories/</link>
+        <description>Categories - Category - Borgesux Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>pt-br</language><atom:link href="http://borgesux.github.io/categories/" rel="self" type="application/rss+xml" /></channel>
+</rss>
