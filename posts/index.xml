@@ -1,11 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Borgesux Blog</title>
-        <link>https://borgesux.github.io/</link>
-        <description>This is my cool site</description>
-        <generator>Hugo -- gohugo.io</generator><language>pt-br</language><lastBuildDate>Fri, 13 May 2022 09:30:06 -0400</lastBuildDate>
-            <atom:link href="https://borgesux.github.io/index.xml" rel="self" type="application/rss+xml" />
-        <item>
+        <title>All Posts - Borgesux Blog</title>
+        <link>https://borgesux.github.io/posts/</link>
+        <description>All Posts | Borgesux Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>pt-br</language><lastBuildDate>Fri, 13 May 2022 09:30:06 -0400</lastBuildDate><atom:link href="https://borgesux.github.io/posts/" rel="self" type="application/rss+xml" /><item>
     <title>Meu-Primeiro-Post</title>
     <link>https://borgesux.github.io/posts/meu-primeiro-post/</link>
     <pubDate>Fri, 13 May 2022 09:30:06 -0400</pubDate>
